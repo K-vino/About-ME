@@ -1,4 +1,2 @@
-streamlit==1.22.0
-smtplib==3.6.0
-random==1.0
-re==2.2.1
+streamlit
+requests
